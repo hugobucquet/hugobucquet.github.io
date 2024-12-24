@@ -1,6 +1,7 @@
-<h3 style="text-align:center;">H3 that is center aligned</h3>
+<div align="center">
 # Hugo Bucquet  
 **Phone:** 914-320-0283 | **Email:** [hb2559@columbia.edu](mailto:hb2559@columbia.edu) | **LinkedIn:** [linkedin.com/in/hugobucquet](https://linkedin.com/in/hugobucquet)
+</div>
 
 ---
 
