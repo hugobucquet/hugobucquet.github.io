@@ -7,6 +7,7 @@
     <style>
         body {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
@@ -15,11 +16,34 @@
             background-color: #f4f4f9;
         }
         h1 {
+            font-size: 4em;
             color: #333;
+            margin: 0.5em 0;
+        }
+        .links {
+            display: flex;
+            gap: 1em;
+            margin-top: 1em;
+        }
+        .links a {
+            font-size: 1em;
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .links a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
     <h1>Hugo Bucquet</h1>
+    <div class="links">
+        <a href="resume.html">Resume</a>
+        <a href="research.html">Research</a>
+        <a href="firefighter.html">Firefighter</a>
+        <a href="sports.html">Sports</a>
+        <a href="random.html">Random</a>
+    </div>
 </body>
 </html>
