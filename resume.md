@@ -1,5 +1,5 @@
 <h2 style="text-align:center;">Hugo Bucquet  </h2>
-<p style="text-align:center;"> **Phone:** 914-320-0283 | **Email:** [hb2559@columbia.edu](mailto:hb2559@columbia.edu) | **LinkedIn:** [linkedin.com/in/hugobucquet](https://linkedin.com/in/hugobucquet) </p>
+<p style="text-align:center;"> Phone: 914-320-0283 | Email: [hb2559@columbia.edu](mailto:hb2559@columbia.edu) | LinkedIn:[linkedin.com/in/hugobucquet](https://linkedin.com/in/hugobucquet) </p>
 
 ---
 
