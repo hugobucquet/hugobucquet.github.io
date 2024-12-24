@@ -1,7 +1,8 @@
-<h1 style="text-align:center;">Hugo Bucquet  </h1>
-<p style="text-align:center;"> Phone: 914-320-0283 | Email: [hb2559@columbia.edu](mailto:hb2559@columbia.edu) | LinkedIn:[linkedin.com/in/hugobucquet](https://linkedin.com/in/hugobucquet) </p>
+<h1 style="text-align:center;">Hugo Bucquet</h1>
+<p style="text-align:center;">
+  Phone: 914-320-0283 | Email: <a href="mailto:hb2559@columbia.edu">hb2559@columbia.edu</a> | LinkedIn: <a href="https://linkedin.com/in/hugobucquet">linkedin.com/in/hugobucquet</a>
+</p>
 
----
 
 ## Education
 
